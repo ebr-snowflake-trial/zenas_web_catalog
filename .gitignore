@@ -252,3 +252,4 @@ fabric.properties
 .DS_Store
 .idea/zenas_web_catalog.iml
 /.idea/.gitignore
+/.idea/sqldialects.xml
