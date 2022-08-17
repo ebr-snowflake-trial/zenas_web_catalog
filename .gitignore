@@ -251,3 +251,4 @@ fabric.properties
 /.idea/vcs.xml
 .DS_Store
 .idea/zenas_web_catalog.iml
+/.idea/.gitignore
